@@ -1,2 +1,2 @@
 # libesedb-20170121-performance-patch
-The performance patch for the libesedb-20170121 library that improves performance of accessing data in big Exchange EDB files.
+A performance patch for libesedb-20170121 library that improves performance of data access in big Exchange EDB files.
